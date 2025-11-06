@@ -152,6 +152,7 @@ Backend will run on:
 👉 http://localhost:5000
 
 🌐 Frontend Setup (Client)
+
 ✅ 1. Navigate to client folder
 cd Client
 
@@ -302,6 +303,7 @@ Backend will run on:
 👉 http://localhost:5000
 
 🌐 Frontend Setup (Client)
+
 ✅ 1. Navigate to client folder
 cd Client
 
