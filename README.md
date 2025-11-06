@@ -126,11 +126,13 @@ mern-blog/
     └── package.json
 
 ⚙️ Installation & Setup
+
 ✅ 1. Clone the repository
 git clone <your-repo-url>
 cd mern-blog
 
 🖥️ Backend Setup (Server)
+
 ✅ 2. Navigate to server folder
 cd Server
 
